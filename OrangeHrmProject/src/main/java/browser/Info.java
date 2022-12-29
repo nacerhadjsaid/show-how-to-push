@@ -1,4 +1,4 @@
-package browser;
+package main.java.browser;
 
 public class Info {
     public static final String  URL = "https://opensource-demo.orangehrmlive.com/";
